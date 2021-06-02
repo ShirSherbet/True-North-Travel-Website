@@ -29,6 +29,6 @@ Contributers:
   <tr>
     <td align="center"><a href="https://github.com/ShirSherbet"><img src="https://avatars2.githubusercontent.com/u/25424994?s=460&v=4" width="100px;" alt="Fanxuan Guo"/><br /><sub><b>Fanxuan Guo</b></sub></a><br />👀📖</td>
     <td align="center"><a href="https://github.com/michelleww"><img src="https://avatars.githubusercontent.com/u/35818851?v=4" width="100px;" alt="Luya Wang"/><br /><sub><b>Luya Wang</b></sub></a><br />📦💡</td>
-   <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/44177295?v=4" width="100px;" alt="Zeping Qu"/><br /><sub><b>Zeping Qu</b></sub></a><br />🤝💭</td>
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/44177295?v=4" width="100px;" alt="Zeping Qu"/><br /><sub><b>Zeping Qu</b></sub></a><br />🤝💭</td>
    </tr>
 </table>

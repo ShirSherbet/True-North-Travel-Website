@@ -1,4 +1,4 @@
-# True-North-Website
+# True-North-Travel-Website
 Demo 
 ===========
 See deployed website: https://thetruenorth.herokuapp.com 

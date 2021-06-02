@@ -1,14 +1,18 @@
 # True-North-Website
+Demo 
+===========
+See deployed website: https://thetruenorth.herokuapp.com 
 
-Deployed website: https://thetruenorth.herokuapp.com  
-
-#### Main Goal
+Main Goal:
+===========
 Provide help when people have trouble planning a trip in Canada.
-#### Technology Used
+
+Technology Used
+========
 Using ejs, MongoDB, mongoose, body-paser, cookie-parser, node.js, express, HTML, CSS, jQuery, AJAX, JavaScript and Google Place API for the RESTful website development. 
  
-#### General Introduction
-
+General Introduction
+========
 When users first enter the web, they will find an one-minute intro-video, showing the most beautiful views of Canada. After 7 seconds, the text "click to enter" fade in.   
 The navigation bar is consisting of 6 parts: ***True North Travel***, ***Home***, ***About***, ***Search***, ***Suggestion*** and ***Login***. ***True North Travel*** will bring the whole page up to top. ***Home*** has similar function as the ***True North Travel*** button, in case when users don't know the ***True North Travel*** button is clickable. When the users click on the rest of the parts, the website will scroll to corresponding sections. 
 
@@ -25,6 +29,6 @@ Contributers:
   <tr>
     <td align="center"><a href="https://github.com/ShirSherbet"><img src="https://avatars2.githubusercontent.com/u/25424994?s=460&v=4" width="100px;" alt="Fanxuan Guo"/><br /><sub><b>Fanxuan Guo</b></sub></a><br />👀📖</td>
     <td align="center"><a href="https://github.com/michelleww"><img src="https://avatars.githubusercontent.com/u/35818851?v=4" width="100px;" alt="Luya Wang"/><br /><sub><b>Luya Wang</b></sub></a><br />📦💡</td>
-   <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/44177295?v=4" width="100px;" alt="Zeping Qu"/><br /><sub><b>Zeping Qu</b></sub></a><br />📦💡</td>
+   <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/44177295?v=4" width="100px;" alt="Zeping Qu"/><br /><sub><b>Zeping Qu</b></sub></a><br />🤝💭</td>
    </tr>
 </table>

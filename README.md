@@ -1,5 +1,4 @@
 # True-North-Website
-Collaborate with Luya Wang and Zeping Qu  
 
 Deployed website: https://thetruenorth.herokuapp.com  
 
@@ -19,3 +18,13 @@ The ***Search*** section is equiped as a 2-input search form. Users can type in 
 In the ***Suggestion*** section, there are 6 default activities. Each one will lead the page to display a new view containing 9 choices. If there are only few choices (less than 9) we get from Google Place api, we will display as much as we have. We apply a filter that will rank the results based on the rating, in non-increasing order. Also, if there is any place that does not fit the type of activity, we will delete it. When user click on one of 9 choices on the page, we will show a ***modal***  with detailed informations. For instance, rating, address, bigger view of picture, a link to google map and comments.  
 
 Now, users are enabled to save their own ***favourite list*** when they are checking modal with detailed informations. After clicking on ***Add to favourite***, back-end server will receive a POST request to add the place in user's favourite list. A certain place can only be add once into ones account, clicking on ***add to favourite list*** multiple times, and the website would inform the user that the selected place is already in his/her favourite list. If user click on ***Home*** in navigation bar, it will direct it back to the main view.
+
+Contributers:
+==========
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ShirSherbet"><img src="https://avatars2.githubusercontent.com/u/25424994?s=460&v=4" width="100px;" alt="Fanxuan Guo"/><br /><sub><b>Fanxuan Guo</b></sub></a><br />👀📖</td>
+    <td align="center"><a href="https://github.com/michelleww"><img src="https://avatars.githubusercontent.com/u/35818851?v=4" width="100px;" alt="Luya Wang"/><br /><sub><b>Luya Wang</b></sub></a><br />📦💡</td>
+   <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/44177295?v=4" width="100px;" alt="Zeping Qu"/><br /><sub><b>Zeping Qu</b></sub></a><br />📦💡</td>
+   </tr>
+</table>
